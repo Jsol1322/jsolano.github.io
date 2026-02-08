@@ -1,0 +1,33 @@
+/* Change the background color of the page */
+body {
+  background-color: #eef2f5;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style the main heading */
+h1 {
+  color: #1f3c88;
+  font-family: "Georgia", serif;
+  margin-bottom: 12px;
+}
+
+/* Style paragraph text */
+p {
+  color: #333;
+  font-family: "Verdana", sans-serif;
+  line-height: 1.6;
+}
+
+/* Add space around main content */
+main.container {
+  padding: 24px;
+}
+
+/* Optional: make cards look nicer */
+.card {
+  background-color: #ffffff;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
